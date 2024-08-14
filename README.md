@@ -1,6 +1,6 @@
 # hello-dagger
 
-This is an example application for use with the Dagger Quickstart. It uses the Vue 3 + Vite template, with minor modifications.
+This is an example application for use with the CG-CI Quickstart. It uses the Vue 3 + Vite template, with minor modifications.
 
 ## Project Setup
 
